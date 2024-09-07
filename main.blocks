@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="mjS~W!gz+E@Q76Qsw2_," x="0" y="0"><statement name="HANDLER"><block type="minecraftSay" id="Cu9S3=Nny0)Nfwtr=cx3"><value name="message"><shadow type="text" id="sZQJV3U`s(we;qbRuV5U"><field name="TEXT">:)</field></shadow></value></block></statement></block></xml>
